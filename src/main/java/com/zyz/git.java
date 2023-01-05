@@ -7,6 +7,7 @@ public class git {
         System.out.println("zyz");
         System.out.println("zyz-git");
         System.out.println("master-git");
+        System.out.println("pull-test");
 
     }
 }
