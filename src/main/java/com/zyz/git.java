@@ -9,5 +9,6 @@ public class git {
         System.out.println("master-git");
         System.out.println("pull-test");
         System.out.println("master-github");
+        System.out.println("master-pull-github");
     }
 }
